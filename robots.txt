@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://central-da-fiel.vercel.app/sitemap.xml
