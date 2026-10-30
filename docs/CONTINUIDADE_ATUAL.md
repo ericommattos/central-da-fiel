@@ -1,0 +1,2 @@
+# Continuidade — 30/10/2026
+Base visual: ZIP central_da_fiel_v08_integrada.zip, recuperado e conferido. Layout preservado com melhorias já publicadas: imagens com créditos e API esportiva. Primeira notícia incorporada do ZIP. Não usar a página simplificada da PR #2. Produção: projeto existente prj_wHYZ8iuIhBRLhV8AwlhCnPgQIh3v, domínio central-da-fiel.vercel.app; saída dist. Credenciais apenas na Vercel.
