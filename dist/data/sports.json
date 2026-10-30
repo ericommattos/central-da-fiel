@@ -1,0 +1,23 @@
+{
+  "checkedAt": "2026-10-29",
+  "timezone": "America/Sao_Paulo",
+  "mode": "manually_verified_snapshot",
+  "nextMatch": {
+    "home": "Corinthians",
+    "away": "Mirassol",
+    "kickoff": "2026-10-30T20:00:00-03:00",
+    "venue": "Neo Química Arena",
+    "competition": "Brasileirão Série A 2026",
+    "round": 33,
+    "source": "https://www.neoquimicaarena.com.br/noticias/ingressos-corinthians-x-mirassol-30-10-brasileirao-2026-arena"
+  },
+  "lastResult": {
+    "home": "Vasco",
+    "away": "Corinthians",
+    "homeScore": 3,
+    "awayScore": 2,
+    "date": "2026-10-24",
+    "source": "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/serie-a-inter-deixa-z-4-com-vitoria-sobre-botafogo-vasco-bate-corinthians-e-se-afasta-da-zona"
+  },
+  "standings": null
+}
