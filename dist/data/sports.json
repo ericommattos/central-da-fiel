@@ -51,7 +51,18 @@
       "venue": "Vila Belmiro",
       "competition": "Brasileirão Série A 2026",
       "round": 34,
-      "source": "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-c/2026/sao-paulo-x-corinthians/832223"
+      "source": "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/sao-paulo-x-corinthians/832223",
+      "summary": "Em uma noite de chuva na Vila Belmiro, São Paulo e Corinthians criaram chances, mas não conseguiram marcar. O Timão teve um gol anulado por impedimento, viu Yuri Alberto ser expulso na reta final e segurou o empate. O resultado levou o Corinthians a 37 pontos, ainda na 17ª posição do Brasileirão.",
+      "highlights": [
+        "O Corinthians criou boas oportunidades no primeiro tempo, mas não aproveitou.",
+        "O São Paulo cresceu após o intervalo; Angileri salvou uma finalização perto da linha.",
+        "Um gol corintiano foi anulado por impedimento de Yuri Alberto.",
+        "Yuri Alberto recebeu cartão vermelho na reta final do clássico."
+      ],
+      "editorialSources": [
+        "https://www.cnnbrasil.com.br/esportes/brasileirao/sao-paulo-0-x-0-corinthians-veja-os-melhores-momentos-pelo-brasileirao/",
+        "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/04/sao-paulo-corinthians-brasileirao-2026-34-rodada-como-foi.ghtm"
+      ]
     }
   ],
   "standings": null
