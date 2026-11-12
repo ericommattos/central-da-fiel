@@ -1,23 +1,58 @@
 {
-  "checkedAt": "2026-10-29",
+  "checkedAt": "2026-11-12T16:00:00-03:00",
   "timezone": "America/Sao_Paulo",
   "mode": "manually_verified_snapshot",
-  "nextMatch": {
-    "home": "Corinthians",
-    "away": "Mirassol",
-    "kickoff": "2026-10-30T20:00:00-03:00",
-    "venue": "Neo Química Arena",
-    "competition": "Brasileirão Série A 2026",
-    "round": 33,
-    "source": "https://www.neoquimicaarena.com.br/noticias/ingressos-corinthians-x-mirassol-30-10-brasileirao-2026-arena"
-  },
-  "lastResult": {
-    "home": "Vasco",
-    "away": "Corinthians",
-    "homeScore": 3,
-    "awayScore": 2,
-    "date": "2026-10-24",
-    "source": "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/serie-a-inter-deixa-z-4-com-vitoria-sobre-botafogo-vasco-bate-corinthians-e-se-afasta-da-zona"
-  },
+  "competition": "Brasileirão Série A 2026",
+  "upcoming": [
+    {
+      "home": "Corinthians",
+      "away": "Botafogo",
+      "kickoff": "2026-11-18T21:30:00-03:00",
+      "venue": "Neo Química Arena",
+      "competition": "Brasileirão Série A 2026",
+      "round": 35,
+      "source": "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/x/832234"
+    },
+    {
+      "home": "Atlético-MG",
+      "away": "Corinthians",
+      "kickoff": "2026-11-25T20:00:00-03:00",
+      "venue": "Arena MRV",
+      "competition": "Brasileirão Série A 2026",
+      "round": 36,
+      "source": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/30/cbf-define-datas-para-jogos-do-corinthians-contra-botafogo-e-atletico-mg-pelo-brasileirao.ghtml"
+    },
+    {
+      "home": "Corinthians",
+      "away": "Grêmio",
+      "kickoff": "2026-11-29T18:30:00-03:00",
+      "venue": "Neo Química Arena",
+      "competition": "Brasileirão Série A 2026",
+      "round": 37,
+      "source": "https://ge.globo.com/google/amp/ba/futebol/brasileirao-serie-a/noticia/2026/11/06/cbf-divulga-datas-e-horarios-das-duas-ultimas-rodadas-do-brasileirao-veja-detalhes.ghtml"
+    },
+    {
+      "home": "Remo",
+      "away": "Corinthians",
+      "kickoff": "2026-12-02T21:30:00-03:00",
+      "venue": "Mangueirão",
+      "competition": "Brasileirão Série A 2026",
+      "round": 38,
+      "source": "https://ge.globo.com/google/amp/ba/futebol/brasileirao-serie-a/noticia/2026/11/06/cbf-divulga-datas-e-horarios-das-duas-ultimas-rodadas-do-brasileirao-veja-detalhes.ghtml"
+    }
+  ],
+  "results": [
+    {
+      "home": "São Paulo",
+      "away": "Corinthians",
+      "homeScore": 0,
+      "awayScore": 0,
+      "kickoff": "2026-11-04T21:30:00-03:00",
+      "venue": "Vila Belmiro",
+      "competition": "Brasileirão Série A 2026",
+      "round": 34,
+      "source": "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-c/2026/sao-paulo-x-corinthians/832223"
+    }
+  ],
   "standings": null
 }
